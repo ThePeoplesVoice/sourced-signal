@@ -12,6 +12,10 @@ See `method.md`.
 
 See `field-sample.md`. Checked 2026-09-13 against live connector responses.
 
+## Income System
+
+See `income-system.md`. Living blueprint for the Revolutionary Financial Provider income source and management system. Checked 2026-10-18 against live Whop + GitHub.
+
 ## Tiers
 
 - **Field** — free public sample (this repo + the live page)
